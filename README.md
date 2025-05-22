@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYEJIN's%20GITHUB&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HYEJIN's%20GITHUB&fontSize=50&animation=twinking&fontAlign=68&fontAlignY=36)
 ## Hi there 👋
 
 
