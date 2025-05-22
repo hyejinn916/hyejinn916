@@ -3,6 +3,8 @@
 <!-- 그라데이션웨이브헤더
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HYEJIN's%20GITHUB&fontSize=50&animation=twinking&fontAlign=68&fontAlignY=36)
 -->
+
+![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinn916&show_icons=true&theme=transparent)
 ## Hi there 👋
 
 Tech Stack
